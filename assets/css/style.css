@@ -5,7 +5,6 @@
     font-family: 'Lora', sans-serif;
     font-size:xx-large;
     text-transform: uppercase;
-    background-color: #9ad4b5;
 }
 
 .nav-link {
@@ -52,4 +51,37 @@
     background-color:#0d0d0d;
     color:#ffffff;
     font-family: 'Lora', sans-serif;
+  }
+
+  /*Why choose pawmium section*/
+  .check {
+    background-color: #ffffff;
+    color: #000000;
+    text-transform: uppercase;
+    font-family: 'Lora', sans-serif;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 5px;
+  }
+
+.stats h3 {
+    padding-top: 25px;
+  }
+  
+  .stats p {
+    padding-top: 25px;
+  }
+
+  .stress-reasons {
+    height: 250px;
+    width: 200px;
+    border-radius: 50%;
+    font-family: 'Lora', sans-serif;
+    padding-bottom: 5px;
+    padding-top: 25px;
+  }
+
+  .why-choose {
+    padding-left: 10px;
+    padding-right: 10px;
   }
