@@ -5,6 +5,7 @@
     font-family: 'Lora', sans-serif;
     font-size:xx-large;
     text-transform: uppercase;
+    background-color: #9ad4b5;
 }
 
 .nav-link {
@@ -18,3 +19,37 @@
 .pawmium-logo {
     margin-right:125px;
 }
+
+/*Hero image section*/
+
+#hero-image {
+    height: 500px;
+    width:100%;
+    background:url(../images/smiley-new.jpg) no-repeat center center;
+    position:relative;
+  }
+
+  #hero-image-text, hero-image-text h2 {
+    color:#ffffff;
+    ;
+  }
+  
+  #hero-image-text {
+    font-size:130%;
+    font-family: 'Lora', sans-serif;
+    letter-spacing:4px;
+    width:300px;
+    height:400px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: rgba(20, 20, 20, .7);
+    top:50px;
+    left:50px;
+    position: absolute;
+    text-align: center;
+  }
+  .more-info {
+    background-color:#0d0d0d;
+    color:#ffffff;
+    font-family: 'Lora', sans-serif;
+  }
