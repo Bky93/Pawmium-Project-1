@@ -85,3 +85,25 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+    /*Quotes section*/
+
+    .quotes {
+      background-color: #ffffff;
+      color: #000000;
+      font-family: 'Lora', sans-serif;
+      text-align: center;
+      padding-bottom: 20px;
+      padding-top: 20px;
+      padding-right: 50px;
+      padding-left: 50px;
+      margin-left: 10px;
+    }
+    
+    .quotes img {
+      width:500px;
+      padding-bottom: 20px;
+      padding-top: 20px;
+    }
+
+ /*colors section*/
