@@ -106,4 +106,24 @@
       padding-top: 20px;
     }
 
- /*colors section*/
+ /*footer*/
+
+ footer {
+  height:150px;
+ }
+
+ .socials {
+  text-align: center;
+  background-color: #000000;
+ }
+
+ .socials li {
+  display:inline;
+ }
+
+ .socials i {
+  font-size: 200%;
+  margin: 1%;
+  padding: 5%;
+  color:#ffffff;
+ }
