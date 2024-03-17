@@ -43,6 +43,26 @@
       </div>
   </section>
      <!--Contact us form-->
+     <div class="contact-form">
+      <h2>Contact Us</h2>
+      <form action="submit_form.php" method="post">
+          <div class="form-group">
+              <label for="name">Name:</label>
+              <input type="text" id="name" name="name" required>
+          </div>
+          <div class="form-group">
+              <label for="email">Email:</label>
+              <input type="email" id="email" name="email" required>
+          </div>
+          <div class="form-group">
+              <label for="query">Let us know how we can help you today:</label>
+              <textarea id="query" name="query" rows="4" required></textarea>
+          </div>
+          <div class="button-center">
+          <button type="submit">Submit</button>
+          </div>
+      </form>
+  </div>
     <!--map-->
     <div class="map">
       <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d51169.7209407613!2d-3.1420644028862874!3d51.99426486479069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDU5JzQ3LjkiTiAzwrAwOCc0MS44Ilc!5e0!3m2!1sen!2suk!4v1710708966966!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
