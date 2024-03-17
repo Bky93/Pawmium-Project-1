@@ -110,7 +110,16 @@ padding-right: 300px;
   text-transform: uppercase;
   color: #ffffff;
 }
-  /*Why choose pawmium section*/
+
+/* map on contact page*/
+
+.map {
+  height:auto;
+  align-items: center;
+  justify-content: center;
+  display:flex;
+}
+/* why choose pawmium section*/
   .check {
     background-color: #ffffff;
     color: #000000;
