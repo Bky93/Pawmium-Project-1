@@ -30,10 +30,6 @@ nav h1 {
 
 #hero-image-text {
   color:#ffffff;
-  ;
-}
-
-#hero-image-text {
   font-size:130%;
   font-family: 'Lora', sans-serif;
   letter-spacing:4px;
@@ -261,5 +257,12 @@ button[type="submit"]:hover {
 
  /*media queries*/
 
-
+ @media screen and (max-width: 600px) {
+  #hero-image-text, #hero-image-text h3  {
+text-align:center;
+background-color: #ffffff;
+color:#141414;
+font-size:xx-large;
+  }
+}
 
