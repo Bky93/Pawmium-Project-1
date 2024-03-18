@@ -16,9 +16,9 @@
     padding-left: 600px;
 }
 
-/*Hero image section*/
+/*Hero image section homepage*/
 
-#hero-image-text, hero-image-text h2 {
+#hero-image-text {
   color:#ffffff;
   ;
 }
@@ -43,8 +43,6 @@
   color:#ffffff;
   font-family: 'Lora', sans-serif;
 }
-
-/*Hero image section homepage*/
 
 #hero-image {
     height: 500px;
@@ -249,3 +247,9 @@ button[type="submit"]:hover {
   padding: 5%;
   color:#ffffff;
  }
+
+
+ /*media queries*/
+
+
+
