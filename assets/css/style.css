@@ -1,5 +1,8 @@
 /*navigation*/
 
+nav h1 {
+  padding-left: 20%;
+}
 
 .navbar {
     color:#000000;
