@@ -1,86 +1,86 @@
 /*navigation*/
-
 nav h1 {
   padding-left: 20%;
   padding-top: 5%;
 }
 
 .navbar {
-    color:#000000;
-    background-color: #ffffff;
-    font-family: 'Lora', sans-serif;
-    font-size:xx-large;
-    text-transform: uppercase;
+  color: #000000;
+  background-color: #ffffff;
+  font-family: 'Lora', sans-serif;
+  font-size: xx-large;
+  text-transform: uppercase;
 }
 
-
 .nav-link {
-    margin-right: 5px;
+  margin-right: 5px;
 }
 
 .navbar-collapse {
   padding-left: 20%;
-}    
+}
 
 .navbar-toggler {
-  padding-right:10%;
-  border:none;
+  padding-right: 10%;
+  border: none;
 }
-/*Hero image section homepage*/
 
+/*Hero image section homepage*/
 #hero-image-text {
-  color:#ffffff;
-  font-size:130%;
+  color: #ffffff;
+  font-size: 130%;
   font-family: 'Lora', sans-serif;
-  letter-spacing:4px;
-  width:300px;
-  height:400px;
+  letter-spacing: 4px;
+  width: 300px;
+  height: 400px;
   padding-top: 40px;
   padding-left: 10px;
   background-color: rgba(20, 20, 20, .7);
-  top:50px;
-  left:50px;
+  top: 50px;
+  left: 50px;
   position: absolute;
   text-align: center;
   text-transform: uppercase;
 }
+
 .more-info {
-  background-color:#0d0d0d;
-  color:#ffffff;
+  background-color: #0d0d0d;
+  color: #ffffff;
   font-family: 'Lora', sans-serif;
 }
 
 #hero-image {
-    height: 500px;
-    width:100%;
-    background:url(../images/smiley-new.jpg) no-repeat center center;
-    position:relative;
-  }
+  height: 500px;
+  width: 100%;
+  background: url(../images/smiley-new.jpg) no-repeat center center;
+  position: relative;
+}
 
-  
 /*Hero image section services page*/
-
 #hero-image-services {
   height: 500px;
-  width:100%;
-  background:url(../images/fire.jpg) no-repeat center center;
-  position:relative;
+  width: 100%;
+  background: url(../images/fire.jpg) no-repeat center center;
+  position: relative;
 }
 
-.services-hero-text{
-color:#ffffff;
+.services-hero-text {
+  color: #ffffff;
 }
+
 /*services*/
-
-.services-intro h1, h2, p {
+.services-intro h1,
+h2,
+p {
   text-align: center;
   font-family: 'Lora', sans-serif;
-  color:#000000
+  color: #000000
 }
 
-.services-intro h2, p {
-padding-left: 300px;
-padding-right: 300px;
+.services-intro h2,
+p {
+  padding-left: 300px;
+  padding-right: 300px;
 }
 
 .services-intro h1 {
@@ -94,26 +94,25 @@ padding-right: 300px;
 }
 
 /*Hero image section contact page*/
-
 #hero-image-contact {
   height: 500px;
-  width:100%;
-  background:url(../images/boo.jpg) no-repeat center center;
-  position:relative;
+  width: 100%;
+  background: url(../images/boo.jpg) no-repeat center center;
+  position: relative;
 }
 
 #hero-image-text-contact {
-  color:#ffffff;
-  font-size:130%;
+  color: #ffffff;
+  font-size: 130%;
   font-family: 'Lora', sans-serif;
-  letter-spacing:4px;
-  width:400px;
-  height:200px;
+  letter-spacing: 4px;
+  width: 400px;
+  height: 200px;
   padding-top: 25px;
   padding-left: 10px;
   background-color: rgba(223, 217, 217, 0.7);
-  top:50px;
-  left:50px;
+  top: 50px;
+  left: 50px;
   position: absolute;
   text-align: center;
   text-transform: uppercase;
@@ -122,15 +121,16 @@ padding-right: 300px;
 #hero-image-text-contact h2 {
   padding-top: 30px;
 }
-/* map on contact page*/
 
+/* map on contact page*/
 .map {
-  height:auto;
+  height: auto;
   align-items: center;
   justify-content: center;
-  display:flex;
+  display: flex;
   padding-bottom: 50px;
 }
+
 /* contact us form*/
 body {
   font-family: 'Lora', sans-serif;
@@ -183,130 +183,129 @@ button[type="submit"]:hover {
 }
 
 /* why choose pawmium section*/
-  .check {
-    background-color: #ffffff;
-    color: #000000;
-    text-transform: uppercase;
-    font-family: 'Lora', sans-serif;
-    text-align: center;
-    padding-bottom: 5px;
-    padding-top: 5px;
-  }
+.check {
+  background-color: #ffffff;
+  color: #000000;
+  text-transform: uppercase;
+  font-family: 'Lora', sans-serif;
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
 
 .stats h3 {
-    padding-top: 25px;
-  }
-  
-  .stats p {
-    padding-top: 25px;
-    text-align: center;
-    padding-left: 50px;
-    padding-right: 50px;
-  }
+  padding-top: 25px;
+}
 
-  .stress-reasons {
-    height: 250px;
-    width: 200px;
-    border-radius: 50%;
-    font-family: 'Lora', sans-serif;
-    padding-bottom: 5px;
-    padding-top: 25px;
-  }
+.stats p {
+  padding-top: 25px;
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
 
-  .why-choose {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
+.stress-reasons {
+  height: 250px;
+  width: 200px;
+  border-radius: 50%;
+  font-family: 'Lora', sans-serif;
+  padding-bottom: 5px;
+  padding-top: 25px;
+}
 
-    /*Quotes section homepage*/
+.why-choose {
+  padding-left: 10px;
+  padding-right: 10px;
+}
 
-    .quotes {
-      background-color: #ffffff;
-      color: #000000;
-      font-family: 'Lora', sans-serif;
-      text-align: center;
-      padding-bottom: 20px;
-      padding-top: 20px;
-      padding-right: 50px;
-      padding-left: 50px;
-      margin-left: 10px;
-    }
-    
-    .quotes img {
-      width:500px;
-      padding-bottom: 20px;
-      padding-top: 20px;
-    }
+/*Quotes section homepage*/
+.quotes {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Lora', sans-serif;
+  text-align: center;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-left: 10px;
+}
 
- /*footer*/
+.quotes img {
+  width: 500px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
 
- footer {
-  height:150px;
- }
+/*footer*/
+footer {
+  height: 150px;
+}
 
- .socials {
+.socials {
   text-align: center;
   background-color: #000000;
- }
+}
 
- .socials li {
-  display:inline;
- }
+.socials li {
+  display: inline;
+}
 
- .socials i {
+.socials i {
   font-size: 200%;
   margin: 1%;
   padding: 5%;
-  color:#ffffff;
- }
+  color: #ffffff;
+}
 
-  /*Thank you page*/
-  .thank-you {
-    text-align: center;
-    border-radius: 50%;
-    font-family: 'Lora', sans-serif;
-    padding-bottom: 25px;
-    padding-top: 25px;
-  }
-
-  #hero-image-text-thanks {
-    color:#ffffff;
-  font-size:130%;
+/*Thank you page*/
+.thank-you {
+  text-align: center;
+  border-radius: 50%;
   font-family: 'Lora', sans-serif;
-  letter-spacing:4px;
-  width:400px;
-  height:200px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+#hero-image-text-thanks {
+  color: #ffffff;
+  font-size: 130%;
+  font-family: 'Lora', sans-serif;
+  letter-spacing: 4px;
+  width: 400px;
+  height: 200px;
   padding-top: 25px;
   padding-left: 10px;
   background-color: rgba(223, 217, 217, 0.7);
-  top:50px;
-  left:50px;
+  top: 50px;
+  left: 50px;
   position: absolute;
   text-align: center;
   text-transform: uppercase;
-  }
+}
 
- /*media queries*/
- @media screen and (max-width: 600px) {
-  #hero-image-text, #hero-image-text h3  {
-text-align:center;
-background-color: #ffffff;
-color:#141414;
-font-size:xx-large;
+/*media queries*/
+@media screen and (max-width: 600px) {
+  #hero-image-text,
+  #hero-image-text h3 {
+    text-align: center;
+    background-color: #ffffff;
+    color: #141414;
+    font-size: xx-large;
   }
 }
 
 @media screen and (max-width: 600px) {
-.contact-form {
-  align-items: center;
-  justify-content: center;
-  width: 75%;
-  align-content: center;
-}
+  .contact-form {
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    align-content: center;
+  }
 }
 
 @media screen and (max-width:600px) {
-  #hero-image-contact{
+  #hero-image-contact {
     align-items: center;
     justify-content: center;
     width: 100%;
@@ -316,7 +315,8 @@ font-size:xx-large;
 }
 
 @media screen and (max-width:600px) {
-  #hero-image-text-contact, #hero-image-text-thanks{
+  #hero-image-text-contact,
+  #hero-image-text-thanks {
     align-items: center;
     justify-content: center;
     width: 80%;
@@ -327,30 +327,30 @@ font-size:xx-large;
 
 @media screen and (max-width:600px) {
   #hero-image-text-contact h2 {
-font-size:120%;
-text-align:center;
-padding-top:30px;
+    font-size: 120%;
+    text-align: center;
+    padding-top: 30px;
   }
 }
 
 @media screen and (max-width:600px) {
-#hero-image-text-thanks h2 {
-font-size:120%;
-text-align:center;
-padding-top:10px;
+  #hero-image-text-thanks h2 {
+    font-size: 120%;
+    text-align: center;
+    padding-top: 10px;
   }
 }
 
 @media screen and (max-width:600px) {
-.thank-you {
-padding-left:25px;
-padding-right:25px;
-    }
+  .thank-you {
+    padding-left: 25px;
+    padding-right: 25px;
   }
+}
 
 @media screen and (max-width:600px) {
-.socials {
-height:300px;
-padding-top:50px;
-        }
-      }
+  .socials {
+    height: 300px;
+    padding-top: 50px;
+  }
+}
