@@ -316,7 +316,7 @@ font-size:xx-large;
 }
 
 @media screen and (max-width:600px) {
-  #hero-image-text-contact {
+  #hero-image-text-contact, #hero-image-text-thanks{
     align-items: center;
     justify-content: center;
     width: 80%;
@@ -326,10 +326,31 @@ font-size:xx-large;
 }
 
 @media screen and (max-width:600px) {
-  #hero-image-text-contact h2{
+  #hero-image-text-contact h2 {
 font-size:120%;
 text-align:center;
 padding-top:30px;
   }
 }
 
+@media screen and (max-width:600px) {
+#hero-image-text-thanks h2 {
+font-size:120%;
+text-align:center;
+padding-top:10px;
+  }
+}
+
+@media screen and (max-width:600px) {
+.thank-you {
+padding-left:25px;
+padding-right:25px;
+    }
+  }
+
+@media screen and (max-width:600px) {
+.socials {
+height:300px;
+padding-top:50px;
+        }
+      }
