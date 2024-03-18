@@ -67,6 +67,9 @@ nav h1 {
   position:relative;
 }
 
+.services-hero-text{
+color:#ffffff;
+}
 /*services*/
 
 .services-intro h1, h2, p {
