@@ -21,7 +21,10 @@ nav h1 {
   padding-left: 20%;
 }    
 
-
+.navbar-toggler {
+  padding-right:10%;
+  border:none;
+}
 /*Hero image section homepage*/
 
 #hero-image-text {
