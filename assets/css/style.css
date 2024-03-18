@@ -269,6 +269,23 @@ button[type="submit"]:hover {
     padding-top: 25px;
   }
 
+  #hero-image-text-thanks {
+    color:#ffffff;
+  font-size:130%;
+  font-family: 'Lora', sans-serif;
+  letter-spacing:4px;
+  width:400px;
+  height:200px;
+  padding-top: 25px;
+  padding-left: 10px;
+  background-color: rgba(223, 217, 217, 0.7);
+  top:50px;
+  left:50px;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  }
+
  /*media queries*/
  @media screen and (max-width: 600px) {
   #hero-image-text, #hero-image-text h3  {
