@@ -1,5 +1,9 @@
 /*navigation*/
 
+.navbar-expand
+{-sm|-md|-lg|-xl|-xxl}
+
+
 .navbar {
     color:#ffffff;
     background-color: #ffffff;
