@@ -119,6 +119,9 @@ padding-right: 300px;
   text-transform: uppercase;
 }
 
+#hero-image-text-contact h2 {
+  padding-top: 30px;
+}
 /* map on contact page*/
 
 .map {
@@ -266,6 +269,43 @@ text-align:center;
 background-color: #ffffff;
 color:#141414;
 font-size:xx-large;
+  }
+}
+
+@media screen and (max-width: 600px) {
+.contact-form {
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  align-content: center;
+}
+}
+
+@media screen and (max-width:600px) {
+  #hero-image-contact{
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    align-content: center;
+    background-position: center;
+  }
+}
+
+@media screen and (max-width:600px) {
+  #hero-image-text-contact {
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    align-content: left;
+    background: #ffffff;
+  }
+}
+
+@media screen and (max-width:600px) {
+  #hero-image-text-contact h2{
+font-size:120%;
+text-align:center;
+padding-top:30px;
   }
 }
 
