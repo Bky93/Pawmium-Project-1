@@ -1,24 +1,23 @@
 /*navigation*/
 
-.navbar-expand
-{-sm|-md|-lg|-xl|-xxl}
-
 
 .navbar {
-    color:#ffffff;
+    color:#000000;
     background-color: #ffffff;
     font-family: 'Lora', sans-serif;
     font-size:xx-large;
     text-transform: uppercase;
 }
 
+
 .nav-link {
     margin-right: 5px;
 }
 
 .navbar-collapse {
-    padding-left: 600px;
-}
+  padding-left: 20%;
+}    
+
 
 /*Hero image section homepage*/
 
