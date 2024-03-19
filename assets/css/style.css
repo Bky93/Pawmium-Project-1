@@ -361,13 +361,6 @@ footer {
 @media screen and (max-width:600px) {
   .socials {
     height: 300px;
-    padding-top: 50px;
-  }
-}
-
-@media screen and (max-width:600px) {
-  .socials-contact-page {
-    height: 300px;
     padding-top: 100px;
     padding-right: 20px;
   }
