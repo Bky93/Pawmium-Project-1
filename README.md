@@ -1,39 +1,124 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# PAWMIUM 
+### URL of live site:
 
-Welcome,
+## About this site
+Pawmium is a premium dog care service for those looking to ensure their dog has the best possible care, whether it be making sure their dog is looked after in luxurious whilst their owner is away or looking to plan a celebration for their four-legged friend. Pawmium offers a multitude of services with the added benefit that every service offered can be personalised to meet the individual needs of each dog and owner.
+This website aims to guide the potential customer around the services Pawmium provides with the end result of being guided to the "get in touch" page to contact Pawmium with their enquiry so that Pawmium can get in contact with them to discuss it. The website was designed to ensure Pawmium is viewed as a premium service, this was also taken into account when the decision was made to not include pricing for standard, non-bespoke services. The website was also made to look professional and relatively minimalistic to ensure the end user fills in the contact form on the "get in touch" page. This website has also been made responsive for various screen sizes to ensure a consisent and positive user experience.
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## CONTENTS
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+ - [User Experience](#target-audience)
+	 - [User Stories](#user-stories)
+ 
+ - [Design](#design)
+	 - [Colour Scheme](#colour-scheme)
+	 - [Typography](#typography)
+	 - [Wireframes](#wireframes)
+ - [Features](#features)
+	 - [General features on each page](#features-by-page)
+	 - [Future Implementations](#future-implementations)
+	 - [Accessibility](#accessibility)
+	
+ - [Technology Used](#technologies-used)
+	 - [Languages used](#languages-used)
+	 - [Frameworks, Libraries, Programmes used](#libraries-and-programmes-used)
+  
+	 
+ - [Deployment and Local Deployment](#deployment)
+	 - [Deployment](#deployment)
+	 - [Local Deployment](#deployment)
+		 - [How to clone](#deployment)
+		
+- [Testing](#testing)
+	 - [Manual testing](#manual-testing)
+	 - [W3C testing](#manual-testing)
+	 - [Lighthouse](#manual-testing)
+	 - [Wave](#manual-testing)
+ - [Bugs](#bugs)
+ - [Credits](#credits)
+ - [Acknowledgments](#acknowledgments)
+ 
 
-## Codeanywhere Reminders
+## User Stories
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+As a static website the user goals will be the same for first time users and returning users. 
 
-`python3 -m http.server`
+**Target Audience**
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+Pawmium is aimed at pet owners who want to go the extra mile for their dog. Pawmium's premium services are aimed towards animal lovers who have a strong bond with their dog and find it difficult to go away without knowing their dog is getting five star care. Pawmium also provides bespoke events for dog owners that want to have a special celebration for their pup or premium classes to give their pup more mental stimulation.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+**User Goals**
 
-`http_server`
+* Pawmium aims for potential customers to immediately get a sense that Pawmium offers premium and customisable services. The content used on the website is clear and concise and aims to quickly put across to the user what Pawmium does. The design of the site aims to convey the luxuriousness of the services Pawmium offers by using a classic colour pallette, good quality images and a simple and elegant layout.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* Pawmium aims to get the potential customer to the "get in touch" page and to fill out the contact us form as soon as possible. The website has multiple call out buttons, one the homepage sends the user to the services page and one on the services page which leads the user to the "get in touch" page.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+* The Pawmium website aims to be user friendly and visibly appealing on all devices. Media queries have been used to give the user good visbility of the site content on different devices.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Design
 
-To log into the Heroku toolbelt CLI:
+## Colour Scheme
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The colour scheme used is simple to provide a classic, elegant look and to allow the images on the site to pop more:
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![#000000 Color Hex Black](image.png)
 
----
+![#ffffff Color Hex White](image-1.png)
 
-Happy coding!
+![#dfd9d9 Color Hex](image-2.png)
+
+## Typography
+
+![Image of the font chosen for the site](image-3.png)
+
+I chose the Google Font 'Lora' because I believe it is both visibily appealing and also clear and concise. I believe this combination fits well with the elegant theme of the site.
+
+## Wireframes
+
+
+## Features
+
+**Nav Bar**
+
+**Footer with Social Media Links**
+
+
+## Features by page
+
+
+**Landing page**
+
+**Gallery Page**
+
+**Contact page**
+
+## Future Implementations
+
+## Accessibility
+
+## Technologies used
+
+**GitHub**
+
+**GitPod**
+
+**Python** 
+
+Python was used when opening a port 8000 preview when coding in Gitpod.
+
+**HTML5** 
+
+HTML5 forms the foundation of the website’s structure.
+
+**CSS** 
+
+CSS was used to style the elements of the website.
+ 
+**Google Maps** 
+
+I incorporated a Google map of Pawmium head office into my Landing page by utilizing an iFrame link from Google Maps.
+
+**Font Awesome** 
+
+I used Font Awesome Icons on my website:
+
