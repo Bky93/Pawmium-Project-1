@@ -98,9 +98,9 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 ## Features
 **Nav Bar**
-	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size. The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on.
 
-	I opted to include the company name and a paw icon taken from font awesome (https://fontawesome.com/icons) which looked more visually appealing than including a custom logo.
+	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size. The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on. I opted to include the company name and a paw icon taken from font awesome (https://fontawesome.com/icons) which looked more visually appealing than including a custom logo.
+
 #### Web/wider screen view:
 ![Image of the nav bar in a web or wider screen view](assets/images/navbar.png)
 
@@ -139,6 +139,8 @@ The contact page has been designed to appear clean, clear and concise with the a
 ![Image of the contact page](assets/images/feat-contact-2.png) 
 ![Image of the contact page](assets/images/feat-contact-3.png) 
 **Thank you page**
+The user reaches the thank you page once they click submit on the contact us form. The thank you page is very basic and has been specifically designed this way to persuade the user to browse the rest of the site.
+![Image of the thank you page](assets/images/feat-thanks-1.png) 
 
 ## Future Implementations
 
