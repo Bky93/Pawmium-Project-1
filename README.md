@@ -117,6 +117,15 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 **Nav Bar**
 
+#### Web view
+![Image of the nav bar in a web view](assets/images/navbar.png)
+
+#### Mobile view
+
+![Image of the nav bar in a web view](assets/images/navbar-mob.png) 
+
+
+
 **Footer with Social Media Links**
 
 
