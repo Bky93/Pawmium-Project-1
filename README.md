@@ -75,6 +75,37 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 ## Wireframes
 
+### Web view
+
+#### Home
+
+![Image of Wireframe for the landing page in a web view](assets/images/homepage-wireframe-web.png)
+
+#### Services
+
+![Image of Wireframe for the services page in a web view](assets/images/services-wireframe-web.png)
+
+#### Get In Touch
+
+![Image of Wireframe for the contact page in a web view](assets/images/contact-wireframe-web.png)
+
+
+#### Thank you
+
+![Image of Wireframe for the thank you page in a web view](assets/images/thanks-wireframe-web.png)
+
+### Mobile view
+
+![Image of Wireframe for the thank you page in a mobile view](assets/images/thanks-wireframe-mobile.png)
+
+
+#### Home
+
+#### Services
+
+#### Get in touch
+
+#### Thank you
 
 ## Features
 
