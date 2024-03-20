@@ -133,7 +133,11 @@ The services page has been designed in a minimalistic way to ensure the services
 The hero image has been taken from pexels (https://www.pexels.com/). I used bootstrap to provide the shadow effect seen on the page.
 
 **Contact page**
- 
+The contact page has been designed to appear clean, clear and concise with the aim for the user to fill out the contact us form. Once the user clicks submit on the contact us form they will be re-directed to the thank you page. The page also contains a map containing a pin where Pawmium's head office is. The map was added by using an iFrame link from Google Maps.
+
+![Image of the contact page](assets/images/feat-contact-1.png) 
+![Image of the contact page](assets/images/feat-contact-2.png) 
+![Image of the contact page](assets/images/feat-contact-3.png) 
 **Thank you page**
 
 ## Future Implementations
