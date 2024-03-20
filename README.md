@@ -122,12 +122,18 @@ The footer across the site contains social media links that open in a new tab wh
 ![Image of the home page](assets/images/feat-home-3.png) 
 ![Image of the home page](assets/images/feat-home-4.png) 
 The landing page has been designed to capture the user's attention on first view by using a large hero image and call out. The call out contains a button that leads the user to the services page. The purpose of using this call out is to guide users through the website clearly and quickly as once they reach the services page this is again repeated to send the user to the get in touch page.
-All images used on the landing page have been taken from pexels (https://www.pexels.com/) and all icons used have been taken from font awesome (https://fontawesome.com/icons). I used bootstrap to provide the shadow effect seen on the homepage and opted to keep the main colours of the page very basic and use bright and appealing images to provide the colour variety of the page, I believe this makes the website look tasteful.
+All images used on the landing page have been taken from pexels (https://www.pexels.com/) and all icons used have been taken from font awesome (https://fontawesome.com/icons). I used bootstrap to provide the shadow effect seen on the homepage and opted to keep the main colours of the page very basic and use bright and appealing images to provide the colour variety of the page, I believe this makes the web page look tasteful.
 
 **Services Page**
+![Image of the services page](assets/images/feat-services-1.png) 
+![Image of the services page](assets/images/feat-services-2.png) 
+![Image of the services page](assets/images/feat-services-3.png) 
+
+The services page has been designed in a minimalistic way to ensure the services on offer are clear and concise and the hero image and call out catch the user's eye on first glance, leading them to the contact us page.
+The hero image has been taken from pexels (https://www.pexels.com/). I used bootstrap to provide the shadow effect seen on the page.
 
 **Contact page**
-
+ 
 **Thank you page**
 
 ## Future Implementations
