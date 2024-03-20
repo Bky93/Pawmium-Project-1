@@ -113,16 +113,22 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 **Footer with Social Media Links**
 The footer across the site contains social media links that open in a new tab when clicked on.
-![Image of the nav bar in a mobile or small tablet view](assets/images/footer.png) 
+![Image of the footer](assets/images/footer.png) 
 
 ## Features by page
-
-
 **Landing page**
+![Image of the home page](assets/images/feat-home-1.png) 
+![Image of the home page](assets/images/feat-home-2.png) 
+![Image of the home page](assets/images/feat-home-3.png) 
+![Image of the home page](assets/images/feat-home-4.png) 
+The landing page has been designed to capture the user's attention on first view by using a large hero image and call out. The call out contains a button that leads the user to the services page. The purpose of using this call out is to guide users through the website clearly and quickly as once they reach the services page this is again repeated to send the user to the get in touch page.
+All images used on the landing page have been taken from pexels (https://www.pexels.com/) and all icons used have been taken from font awesome (https://fontawesome.com/icons). I used bootstrap to provide the shadow effect seen on the homepage and opted to keep the main colours of the page very basic and use bright and appealing images to provide the colour variety of the page, I believe this makes the website look tasteful.
 
-**Gallery Page**
+**Services Page**
 
 **Contact page**
+
+**Thank you page**
 
 ## Future Implementations
 
