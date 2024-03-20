@@ -96,16 +96,19 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 ### Mobile view
 
-![Image of Wireframe for the thank you page in a mobile view](assets/images/thanks-wireframe-mobile.png)
-
-
 #### Home
 
+![Image of Wireframe for the thank you page in a mobile view](assets/images/homepage-wireframe-mobile.png)
+
 #### Services
+
+
 
 #### Get in touch
 
 #### Thank you
+
+![Image of Wireframe for the thank you page in a mobile view](assets/images/thanks-wireframe-mobile.png)
 
 ## Features
 
