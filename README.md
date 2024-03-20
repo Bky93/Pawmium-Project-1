@@ -61,15 +61,15 @@ Pawmium is aimed at pet owners who want to go the extra mile for their dog. Pawm
 
 The colour scheme used is simple to provide a classic, elegant look and to allow the images on the site to pop more:
 
-![#000000 Color Hex Black](image.png)
+![#000000 Color Hex Black](assets/images/hex-col-3.png)
 
-![#ffffff Color Hex White](image-1.png)
+![#ffffff Color Hex White](assets/images/hex-col-1.png)
 
-![#dfd9d9 Color Hex](image-2.png)
+![#dfd9d9 Color Hex](assets/images/hex-col-2.png)
 
 ## Typography
 
-![Image of the font chosen for the site](image-3.png)
+![Image of the font chosen for the site](assets/images/lora-font.png)
 
 I chose the Google Font 'Lora' because I believe it is both visibily appealing and also clear and concise. I believe this combination fits well with the elegant theme of the site.
 
