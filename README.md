@@ -247,6 +247,70 @@ I used the wave extension to check for contrast and errors on each page, it did 
 ![Image of the test I did with the wave extension](assets/images/wave-test-4.png)
 
 **Device testing**
+
+The website was tested on the following devices:
+
+- iPhone 11.
+
+- iPhone 10.
+
+- Pixel 7
+
+- iPad.
+
+- iPad Air.
+
+- 32' widescreen monitor. 
+
 **Browsers**
-**Testing of site features**
-table
+
+* Google Chrome
+* Edge
+* Firefox
+
+## Bugs
+
+1. * ***Issue Found:*** 
+        * Bullet points showing in footer not required
+    * ***Solution Used:*** 
+        * Once content has been centered and list items set to "display:inline" it resolved the bullet point issue.
+		![Image of bug 1](assets/images/bug-1.png)
+1. * ***Issue Found:*** 
+        * Cannot add spacing to left of name in navbar 
+    * ***Solution Used:***    
+        * Added class="mx-auto p-2" to nav element which also improved the spacing to the right of the condensed navbar when viewing the site on a smaller screen
+		![Image of bug 2](assets/images/bug-2.png)
+1. * ***Issue Found:*** 
+        * Hamburger icon for opening menu does not work on services and contact us page 
+    * ***Solution Used***:
+        * Script missing from services.html and contact.html - added to both and hamburger icon now opens when clicked.
+		![Image of bug 3](assets/images/bug-3.png)
+1.    * ***Issue Found:*** 
+        * Menu items not showing on dropdown on smaller devices.
+		    * ***Solution Used***:
+        * I commented out my navbar CSS to see if this was causing the issue and it seems it is. I then commented out each piece of CSS individually and realised it was the following causing an issue and removed it: .navbar-collapse {padding-left:600px;} I then re-added the padding as a percentage.
+1.    * ***Issue Found:*** 
+        * Hamburger icon for opening menu does not work on thank you page.
+		    * ***Solution Used***:
+        * Script missing from page, added and hamburger icon now opens when clicked.
+1.    * ***Issue Found:*** 
+        * Home menu item does not take use to homepage when clicked on from thanks.html
+		    * ***Solution Used***:
+        * removed aria-current="page"  data-bs-toggle="dropdown" from anchor element.	
+		
+## Credits
+
+I used windows co-pilot for some help with content creation.
+
+I used stack overflow daily basis for guidance and problem solving. https://stackoverflow.com/
+
+I used free images from Pexels. https://pexels.com/
+
+I used Bootstrap for certain elements and style
+
+### Acknowledgments
+
+I would like to acknowledge my mentor Luke for his help in checking this project and the motivation the mentoring sessions have given me.
+I would also like to acknowlege everyone that posts on slack as it has been an incredibly helpful support along the way.
+
+
