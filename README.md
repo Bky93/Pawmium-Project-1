@@ -202,7 +202,22 @@ The site was deployed early on GitHub pages.
 ## Manual Testing
 
 **CSS Validator**
+
+![Image of the first test I did with W3C CSS Validator](assets/images/css-test-1.png)
+
+The W3C CSS validation service found 1 error as seen in the image above. I removed this line of css and found the site was not effected.
+
+I also removed the css line that was flagged up in the warnings and found this did not effect the site.
+
+I then checked it again and the validator confirmed there was no longer any errors:
+
+![Image of the second test I did with W3C CSS Validator](assets/images/css-test-2.png)
+
+
 **W3C Validator**
+
+
+
 **Lighthouse**
 **Wave Testing**
 **Device testing**
