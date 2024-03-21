@@ -2,7 +2,7 @@
 
 ![Image of the site across different devices](assets/images/responsive.png)
 
-### URL of live site:
+### URL of live site: https://bky93.github.io/Pawmium-Project-1/index.html
 
 ## About this site
 Pawmium is a premium dog care service for those looking to ensure their dog has the best possible care, whether it be making sure their dog is looked after in luxurious whilst their owner is away or looking to plan a celebration for their four-legged friend. Pawmium offers a multitude of services with the added benefit that every service offered can be personalised to meet the individual needs of each dog and owner.
@@ -100,8 +100,7 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 ## Features
 ### Nav Bar
-
-	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size. The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on. I opted to include the company name and a paw icon taken from font awesome (https://fontawesome.com/icons) which looked more visually appealing than including a custom logo.
+	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size. The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on. I opted to include the company name and a paw icon taken from font awesome https://fontawesome.com/icons which looked more visually appealing than including a custom logo.
 
 #### Web/wider screen view:
 
@@ -149,11 +148,7 @@ The contact page has been designed to appear clean, clear and concise with the a
 
 ![Image of the contact page](assets/images/feat-contact-1.png) 
 
-
-
 ![Image of the contact page](assets/images/feat-contact-2.png) 
-
-
 
 ![Image of the contact page](assets/images/feat-contact-3.png) 
 
