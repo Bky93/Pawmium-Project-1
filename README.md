@@ -149,7 +149,11 @@ The contact page has been designed to appear clean, clear and concise with the a
 
 ![Image of the contact page](assets/images/feat-contact-1.png) 
 
+
+
 ![Image of the contact page](assets/images/feat-contact-2.png) 
+
+
 
 ![Image of the contact page](assets/images/feat-contact-3.png) 
 
