@@ -100,7 +100,9 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 
 ## Features
 ### Nav Bar
-	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size. The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on. I opted to include the company name and a paw icon taken from font awesome https://fontawesome.com/icons which looked more visually appealing than including a custom logo.
+	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size.
+	The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on.
+	I opted to include the company name and a paw icon taken from font awesome https://fontawesome.com/icons which looked more visually appealing than including a custom logo.
 
 #### Web/wider screen view:
 
