@@ -216,9 +216,15 @@ I then checked it again and the validator confirmed there was no longer any erro
 
 **W3C Validator**
 
+The HTML validator produced the following warning:
 
+![Image of the second test I did with W3C CSS Validator](assets/images/html-test-1.png)
+
+I tried changing the section element to a div element but this messed up the formatting of the page and I did not have time to work out how to fix it therefore I left the element as it was orginally and this is something I will keep in mind for future versions.
 
 **Lighthouse**
+
+
 **Wave Testing**
 **Device testing**
 **Browsers**
