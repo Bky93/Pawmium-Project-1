@@ -99,36 +99,46 @@ I chose the Google Font 'Lora' because I believe it is both visibily appealing a
 ![Image of Wireframe for the thank you page in a mobile view](assets/images/thanks-wireframe-mobile.png)
 
 ## Features
-**Nav Bar**
+### Nav Bar
 
 	The nav bar used is from Bootstrap and is consistent in all pages. It is responsive and turns into a hamburger menu icon when being viewed on a smaller screen size. The page in the menu the user is hovering their mouse over will change font colour to reflect this. The font colour will also change to show which page the user is currently on. I opted to include the company name and a paw icon taken from font awesome (https://fontawesome.com/icons) which looked more visually appealing than including a custom logo.
 
 #### Web/wider screen view:
+
 ![Image of the nav bar in a web or wider screen view](assets/images/navbar.png)
 
 #### Mobile/small tablet view:
 ##### Before clicking on the hamburger menu icon:
+
 ![Image of the nav bar in a mobile or small tablet view](assets/images/navbar-mob-2.png) 
 
 ##### After clicking on the hamburger menu icon:
+
 ![Image of the nav bar in a mobile or small tablet view](assets/images/navbar-mob.png) 
 
 **Footer with Social Media Links**
 The footer across the site contains social media links that open in a new tab when clicked on.
+
 ![Image of the footer](assets/images/footer.png) 
 
 ## Features by page
 **Landing page**
 ![Image of the home page](assets/images/feat-home-1.png) 
-![Image of the home page](assets/images/feat-home-2.png) 
+
+![Image of the home page](assets/images/feat-home-2.png)
+
 ![Image of the home page](assets/images/feat-home-3.png) 
-![Image of the home page](assets/images/feat-home-4.png) 
+
+![Image of the home page](assets/images/feat-home-4.png)
+
 The landing page has been designed to capture the user's attention on first view by using a large hero image and call out. The call out contains a button that leads the user to the services page. The purpose of using this call out is to guide users through the website clearly and quickly as once they reach the services page this is again repeated to send the user to the get in touch page.
 All images used on the landing page have been taken from pexels (https://www.pexels.com/) and all icons used have been taken from font awesome (https://fontawesome.com/icons). I used bootstrap to provide the shadow effect seen on the homepage and opted to keep the main colours of the page very basic and use bright and appealing images to provide the colour variety of the page, I believe this makes the web page look tasteful.
 
 **Services Page**
 ![Image of the services page](assets/images/feat-services-1.png) 
+
 ![Image of the services page](assets/images/feat-services-2.png) 
+
 ![Image of the services page](assets/images/feat-services-3.png) 
 
 The services page has been designed in a minimalistic way to ensure the services on offer are clear and concise and the hero image and call out catch the user's eye on first glance, leading them to the contact us page.
@@ -138,8 +148,11 @@ The hero image has been taken from pexels (https://www.pexels.com/). I used boot
 The contact page has been designed to appear clean, clear and concise with the aim for the user to fill out the contact us form. Once the user clicks submit on the contact us form they will be re-directed to the thank you page. The page also contains a map containing a pin where Pawmium's head office is. The map was added by using an iFrame link from Google Maps.
 
 ![Image of the contact page](assets/images/feat-contact-1.png) 
+
 ![Image of the contact page](assets/images/feat-contact-2.png) 
+
 ![Image of the contact page](assets/images/feat-contact-3.png) 
+
 **Thank you page**
 The user reaches the thank you page once they click submit on the contact us form. The thank you page is very basic and has been specifically designed this way to persuade the user to browse the rest of the site.
 ![Image of the thank you page](assets/images/feat-thanks-1.png) 
@@ -195,9 +208,13 @@ GitHub backing up all aspects of the project. Bootstrap was used for across the 
 The site was deployed on GitHub pages. 
 
 ## Local Deployment
-
-
 #### How to Clone:
+
+1.  Log into your account on GitHub
+2.  Go to the repository of this project [Pawmium-Project-1](https://github.com/Bky93/Pawmium-Project-1)
+3.  Click on the code button, and copy your preferred clone link.
+4.  Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5.  Type 'git clone' into the terminal, paste the link you copied in step 3 and press enter.
 
 ## Testing
 
