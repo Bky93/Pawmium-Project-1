@@ -2,7 +2,7 @@
 
 ![Image of the site across different devices](assets/images/responsive.png)
 
-### URL of live site: https://bky93.github.io/Pawmium-Project-1/index.html
+### URL of live site: https://bky93.github.io/Pawmium-Project-1/
 
 ## About this site
 Pawmium is a premium dog care service for those looking to ensure their dog has the best possible care, whether it be making sure their dog is looked after in luxurious whilst their owner is away or looking to plan a celebration for their four-legged friend. Pawmium offers a multitude of services with the added benefit that every service offered can be personalised to meet the individual needs of each dog and owner.
