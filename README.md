@@ -143,16 +143,19 @@ The user reaches the thank you page once they click submit on the contact us for
 ![Image of the thank you page](assets/images/feat-thanks-1.png) 
 
 ## Future Implementations
-
+In future versions of this site I would like to add animation so the sections of the pages slide into view as the user scrolls. I would also like to add a section on nutrition containing videos made by Pawmium.
 ## Accessibility
-
+I have used alt attributes for all images on the website and aria labels. I have also used back up fonts and
 ## Technologies used
+**GitPod**
+
+Gitpod is the IDE used for editing my site and pushing changes.
 
 **GitHub**
 
-**GitPod**
+I used github for storage of the site
 
-**Python** 
+**Python**
 
 Python was used when opening a port 8000 preview when coding in Gitpod.
 
@@ -170,5 +173,39 @@ I incorporated a Google map of Pawmium head office into my Landing page by utili
 
 **Font Awesome** 
 
-I used Font Awesome Icons on my website:
+I used Font Awesome Icons on my website.
 
+**Google Fonts**
+
+The font used on the website is 'Lora' from Google fonts.
+
+## Languages Used
+
+HTML5, CSS
+
+## Libraries and programmes used
+
+GitHub backing up all aspects of the project. Bootstrap was used for across the site for esponsiveness, style and layout.
+
+
+## Deployment
+
+The site was deployed early on GitHub pages. 
+
+## Local Deployment
+
+
+#### How to Clone:
+
+## Testing
+
+## Manual Testing
+
+**CSS Validator**
+**W3C Validator**
+**Lighthouse**
+**Wave Testing**
+**Device testing**
+**Browsers**
+**Testing of site features**
+table
