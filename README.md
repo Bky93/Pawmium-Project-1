@@ -1,5 +1,7 @@
 # PAWMIUM 
 
+![Image of the site across different devices](assets/images/responsive.png)
+
 ### URL of live site:
 
 ## About this site
@@ -185,12 +187,12 @@ HTML5, CSS
 
 ## Libraries and programmes used
 
-GitHub backing up all aspects of the project. Bootstrap was used for across the site for esponsiveness, style and layout.
+GitHub backing up all aspects of the project. Bootstrap was used for across the site for responsiveness, style and layout.
 
 
 ## Deployment
 
-The site was deployed early on GitHub pages. 
+The site was deployed on GitHub pages. 
 
 ## Local Deployment
 
