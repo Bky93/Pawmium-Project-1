@@ -224,8 +224,28 @@ I tried changing the section element to a div element but this messed up the for
 
 **Lighthouse**
 
+I used the lighthouse extension for Google Chrome which gave me feedback as to the performance and speed of the website. The site had lower performance scores than I would like and this is something I would like to improve in future versions.
+
+![Image of the test I did with the lighthouse extension](assets/images/lighthouse-test.png)
+
+![Image of the test I did with the lighthouse extension](assets/images/lighthouse-test-2.png)
+
+![Image of the test I did with the lighthouse extension](assets/images/lighthouse-test-3.png)
+
+![Image of the test I did with the lighthouse extension](assets/images/lighthouse-test-4.png)
 
 **Wave Testing**
+
+I used the wave extension to check for contrast and errors on each page, it did not find any:
+
+![Image of the test I did with the wave extension](assets/images/wave-test-1.png)
+
+![Image of the test I did with the wave extension](assets/images/wave-test-2.png)
+
+![Image of the test I did with the wave extension](assets/images/wave-test-3.png)
+
+![Image of the test I did with the wave extension](assets/images/wave-test-4.png)
+
 **Device testing**
 **Browsers**
 **Testing of site features**
